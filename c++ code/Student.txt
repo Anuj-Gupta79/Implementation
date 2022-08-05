@@ -1,0 +1,3 @@
+
+Anuj1	120	Btech	A
+Anuj2	110	Bsc	A

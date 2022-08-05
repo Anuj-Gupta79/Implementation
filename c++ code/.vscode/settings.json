@@ -1,0 +1,12 @@
+{
+    "cSpell.ignoreWords": [
+        "Cofactor"
+    ],
+    "files.associations": {
+        "vector": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled",
+    "cSpell.words": [
+        "hourlyrooms"
+    ]
+}
